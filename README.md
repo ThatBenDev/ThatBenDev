@@ -2,10 +2,10 @@
 Im A 13 Year Old Developer Learning Java From The UK!
 
 # 📝My Skills:
-System Administration
-Minecraft Server Setups
-Minecraft Plugin Development
-Minecraft Server Optimisation
+System Administration ┃
+Minecraft Server Setups ┃ 
+Minecraft Plugin Development ┃
+Minecraft Server Optimisation ┃
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
